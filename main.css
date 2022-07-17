@@ -1,0 +1,68 @@
+h1{
+    color: rgb(65, 65, 226);
+    transform: 50px;
+    margin-top: 50px;
+    text-align: center;
+    margin-right: 200px;
+    top: 100px;
+    margin-left: 150px;
+
+
+
+}
+input{
+    margin: 2px;
+    font-size:17px ;
+    margin-left: 100px;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid black;
+    
+   cursor: pointer;
+    
+    
+}
+form{
+    background-color: rgb(232, 232, 190);
+    height: 400px;
+    width: 400px;
+    margin-left: 500px;
+   
+ 
+}
+
+.Loginbtb{
+    height: 40px;
+    width: 216px;
+    background-color: blue;
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    margin: 5px;
+    margin-left: 100px;
+    border-radius: 5px;
+    
+
+}
+p{
+    padding-left:0px;
+    color: rgb(21, 50, 214);   
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    width: 400px;
+    text-align: center;
+
+}
+     
+     
+
+.createAc{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(21, 188, 55);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+}
